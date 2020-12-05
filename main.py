@@ -1,5 +1,5 @@
 from util.selenium_utils import iterate_uf_pages
-
+import json
 
 def uf_selector(list_uf):
     '''
