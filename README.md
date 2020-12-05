@@ -1,6 +1,6 @@
 # Data Pirates Challenge
 
-The challenge consists in gathering data from Correios' "Busca Faixa CEP" website, and produce a JSON file which each line is a record containing: unique id, location, CEP range.
+The challenge consists in gathering data from Correios' "Busca Faixa CEP" website, and produce a JSON file in which each line is a record containing: unique id, location, CEP range.
 
 # Run the application
 
